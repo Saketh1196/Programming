@@ -2,7 +2,7 @@
 % the pixel value is greater than the specified value it is converted to
 % brighter pixel otherwise converted to darker pixel
 
-orig_img= imread("giraffes.jpg");
+orig_img= imread("cars.png");
 img1 = rgb2gray(orig_img);
 img1 = double(img1);
 [rows columns] = size(img1);
