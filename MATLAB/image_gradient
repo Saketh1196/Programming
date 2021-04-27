@@ -1,1 +1,34 @@
+% In this Program, Weights are applied for the image and the change in
+% gradient is observed and displayed
 
+image = imread('giraffes.jpg');
+image = rgb2gray(image);
+image = double(image);
+[row col] = size(image);
+w1 = [1 0; -1 -0];
+w2 = [1 -1; 1 1];
+for i=1:1:row-1
+    for j=1:1:col-1
+         % x gradient mask
+        x_grad_img(i,j) = w1(1) * image(i, j) + w1(2) * image(i,j+1) + ...
+                          w1(3) * image(i+1, j) + w1(4) * image(i+1, j+1);
+         % y gradient mask
+        y_grad_img(i,j) = w2(1) * image(i, j) + w2(2) * image(i,j+1) + .... 
+                          w2(3) * image(i+1, j) + w2(4) * image(i+1, j+1); 
+    end
+end
+
+% x gradient
+figure(1)
+imshow(uint8(x_grad_img)) 
+
+% y gradient
+figure(2)
+imshow(uint8(y_grad_img)) 
+
+% combined x and y gradient image
+final_image = x_grad_img + y_grad_img;
+figure(3)
+imshow(uint8(final_image)) 
+
+         
