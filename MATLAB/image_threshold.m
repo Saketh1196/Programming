@@ -8,7 +8,7 @@ img1 = double(img1);
 [rows columns] = size(img1);
 for i = 1:rows
     for j = 1:columns
-        if img1>127
+        if img1(i,j)>127
             img1(i,j)=255; % 255 indicates brighter pixel
         else
             img1(i,j)=0;   % 0 indicates darker pixel
