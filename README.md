@@ -25,5 +25,6 @@ It is built using Tkinter library where different widgets are used to control th
 
 The ouptput of the code is shown as follows:
 
+![](Screenshot%20(39).png)
 
 
