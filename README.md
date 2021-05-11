@@ -16,3 +16,14 @@ The ouptut of the program is attached as an image below along with the pdf file 
 
 ![](PDFextractor.png)
 
+
+# Login_System
+
+This is a simple GUI app which makes allows the user to login into their account. The application consists of username password along with login and register options. The username and password will be created and stored in a text file for a new user. While on the other users, they can login with the details if their details are correct. If they are incorrect then the login will be prevented. 
+
+It is built using Tkinter library where different widgets are used to control the application. Frmames, Labels, Entries, Canvas etc are some widgets which are used in this project. Also there are different functions present in the program to specify the operations being performed. 
+
+The ouptput of the code is shown as follows:
+
+
+
