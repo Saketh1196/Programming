@@ -12,5 +12,7 @@ It is an simple GUI app where the text can be extracted up uploading the file.
 
 3. PIL - Stands for Python imaging library, where it is supports opening, manipulating, saving different file formats.
 
-![](picture.png)
+The ouptut of the program is attached as an image below
+
+![](PDFextractor.png)
 
