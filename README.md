@@ -7,9 +7,13 @@ Extraction of text from image
 ![](Python/tesseract.jpg)
 
 Simple GUI application of calculator using matlab
-- This Calculator works as normal calculator and also a calculator when pressed buttons randomly will provide some wierd messages as shown below.
 
 ![](MATLAB/drunk_calculator.png)
+
+- This Calculator works as normal calculator and also as a calculator when pressed buttons randomly will display some wierd messages as shown below.
+ 
+![](MATLAB/drunk_calc.png)
+
 
 
 # PDFextractor 
