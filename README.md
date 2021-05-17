@@ -7,6 +7,7 @@ Extraction of text from image
 ![](Python/tesseract.jpg)
 
 Simple GUI application of calculator using matlab
+- the code is presented in the MATLAB folder under the name "drunk_calculator.m"
 
 ![](MATLAB/drunk_calculator.png)
 
