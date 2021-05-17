@@ -2,7 +2,8 @@
 
 The files contain Coding related to Image Processing in Python and Matlab.
 
-Extraction of text from image 
+Extraction of text from image
+
 ![](Python/tesseract.jpg)
 
 
