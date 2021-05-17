@@ -1,6 +1,10 @@
 # Programming
 
-The files contain Programming Code related to Image Processing in Python and Matlab.
+The files contain Coding related to Image Processing in Python and Matlab.
+
+Extraction of text from image 
+![](Python/tesseract.jpg)
+
 
 # PDFextractor 
  
