@@ -38,10 +38,9 @@ i. The names of the data in the dataset are classified into 9 different groups a
 ii. Image Preprocessing is done to convert the images into grey scale and displayed in order to ensure that the data that is being trained is correct or not.
 
 iii. A neural network is defined to train the dataset containing images.
+  1. The input layer for the network is of the shape 28*28.
   
-   a. The input layer for the network is of the shape 28*28.
-  
-   b. One hidden layer of size 128 is used along with the activation function 'Relu'. If the computed value is negative then the result would be 0 and if the computed value is         positive then the output value is 1.
+  2. One hidden layer of size 128 is used along with the activation function 'Relu'. If the computed value is negative then the result would be 0 and if the computed value is         positive then the output value is 1.
   
 ![](Python/img_classification.jpg)
  
