@@ -37,7 +37,7 @@ v. The required license plate is detected in the input image.
 ![](Python/car.jpg)
 #### Note: 
 
-Due to some issue the file is unable to load. It is solved with this link: 
+Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link:  
 
 [Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
@@ -53,9 +53,9 @@ Once the text has been detected, bounding boxes are used to display the characte
 
 #### Note: 
 
-Due to some issue the file is unable to load in the Github repository. It is resolved with this link: 
+Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link: 
 
-[tesseract.ipynb]((https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
+[tesseract.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
 
 
 # GUI Projects
