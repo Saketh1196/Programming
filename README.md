@@ -38,6 +38,7 @@ v. The required license plate is detected in the input image.
 #### Note: 
 
 Due to some issue the file is unable to load. It is solved with this link: 
+
 [Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
 ### B. Text Detection from image
@@ -49,6 +50,12 @@ Used Modules for Extraction of the Image:
 Once the text has been detected, bounding boxes are used to display the characters of the text individually as shown in the obtained result.
 
 ![](Python/tesseract.jpg)
+
+#### Note: 
+
+Due to some issue the file is unable to load in the Github repository. It is resolved with this link: 
+
+[tesseract.ipynb]((https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
 
 
 # GUI Projects
