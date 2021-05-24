@@ -2,7 +2,7 @@
 
 These are some of the mini projects done which are related to the field of Computer Vision. Image detection, Lane detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB.  
 
-### Text Detection from image
+### 1. Text Detection from image
 
 The main goal is to detect text from a given image.
 Used Modules for Extraction of the Image:
@@ -22,7 +22,7 @@ Once the text has been detected, bounding boxes are used to display the characte
 
 
 
-### Simple GUI application of calculator using matlab
+### 2. Simple GUI application of calculator using matlab
 The code is presented in the MATLAB folder under the name "drunk_calculator.m"
 This Calculator works as normal calculator when calculations are performed sequentially
 Also this calculator have the capability to produce some wierd messages as displayed below. This happens when the buttons are pressed randomly.
@@ -31,7 +31,7 @@ Also this calculator have the capability to produce some wierd messages as displ
 
 
 
-# PDFextractor 
+# 3. PDFextractor 
  
 It is an simple GUI app where the text can be extracted by uploading the desired pdf file.
 
@@ -59,7 +59,7 @@ The ouptut of the program is attached as an image below along with the pdf file 
 ![](PDFextractor.png)
 
 
-### Login_System
+### 4. Login_System
 
 This is a simple GUI app which makes allows the user to login into their account. The application consists of username password along with login and register options. The username and password will be created and stored in a text file for a new user. While on the other users, they can login with the details if their details are correct. If they are incorrect then the login will be prevented. 
 
