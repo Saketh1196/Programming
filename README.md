@@ -20,7 +20,7 @@ These libraries are used in the following projects:
 
 ## A. Image Classification
 
-In this project, Images are loaded from the fashion MNIST dataset and is checked whether the images are correctly classified according to the given labels using the libraries 'keras' and 'Tensorflow'.
+In this project, Images are loaded from the fashion MNIST dataset and is checked whether the images are correctly classified according to the given labels using the libraries 'keras' and 'Tensorflow'. They are further classified and trained under train and test images to obtain the desired results. 
 
 - Tensorflow library
  ```
@@ -31,7 +31,19 @@ In this project, Images are loaded from the fashion MNIST dataset and is checked
  ```
  from tensorflow import keras
  ````
- 
+### Steps Involved:
+
+i. The names of the data in the dataset are classified into 9 different groups and are defined in a list.
+
+ii. Image Preprocessing is done to convert the images into grey scale and displayed in order to ensure that the data that is being trained is correct or not.
+
+iii. A neural network is defined to train the dataset containing images.
+  
+  a. The input layer for the network is of the shape 28*28.
+  
+  b. One hidden layer of size 128 is used along with the activation function 'Relu'. If the computed value is negative then the result would be 0 and if the computed value is positive then the output value is 1.
+  
+![](Python/img_classification.jpg)
  
 ### Note:
 Sometimes there is a problem loading with the '.ipynb' extension file in the github repository. If you encouter this problem open the file with the given link below 'Image_Classification.ipynb':
@@ -71,7 +83,7 @@ Once the text has been detected, bounding boxes are used to display the characte
 
 ![](Python/tesseract.jpg)
 
-#### Note: 
+### Note: 
 
 Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link 'tesseract.ipynb: 
 
