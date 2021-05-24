@@ -1,11 +1,8 @@
 # Programming
 
-These are some of the mini projects done which are related to the field of Computer Vision. Image detection, Lane detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB.  
+These are some of the mini projects done which are related to the field of Computer Vision. Lane detection, Object detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB. 
 
-### 1. Text Detection from image
-
-The main goal is to detect text from a given image.
-Used Modules for Extraction of the Image:
+These libraries are used in the following projects:
 
 - OpenCV
 
@@ -16,6 +13,37 @@ Used Modules for Extraction of the Image:
  ```bash
   pip install matplotlib
  ```
+- Numpy
+ ```bash
+   pip install numpy
+  ```
+
+
+### Object detection
+
+In this task, a Car image with a license plate is given as input. 
+
+#### Steps involved: 
+
+i. The Car image is displayed using "display function". Also, the image size and plotting is defined using this function.
+
+ii. A Cascade Classifier is used to detect the object in the image. In this case, the license plate is the main object for detection.
+
+iii. Next, a copy of the image is taken and is 'detectMultiScale' function is used. This function detects objects of different sizes in the given input image. The detected objects are returned as a list of rectangles.
+
+iv. Using the cv2.rectangle function a rectangle box is drawn around the license plate of the image using the axis, height and width.
+
+v. The required license plate is detected in the input image.
+
+![](Python/car.jpg)
+
+
+### Text Detection from image
+
+The main goal is to detect text from a given image.
+
+Used Modules for Extraction of the Image:
+ 
 Once the text has been detected, bounding boxes are used to display the characters of the text individually as shown in the obtained result.
 ![](Python/tesseract.jpg)
 
@@ -31,7 +59,7 @@ Also this calculator have the capability to produce some wierd messages as displ
 
 
 
-# 3. PDFextractor 
+#  PDFextractor 
  
 It is an simple GUI app where the text can be extracted by uploading the desired pdf file.
 
@@ -59,7 +87,7 @@ The ouptut of the program is attached as an image below along with the pdf file 
 ![](PDFextractor.png)
 
 
-### 4. Login_System
+###  Login_System
 
 This is a simple GUI app which makes allows the user to login into their account. The application consists of username password along with login and register options. The username and password will be created and stored in a text file for a new user. While on the other users, they can login with the details if their details are correct. If they are incorrect then the login will be prevented. 
 
