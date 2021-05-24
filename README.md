@@ -19,11 +19,11 @@ These libraries are used in the following projects:
   ```
 
 
-### Object detection
+## A. Object Detection
 
 In this task, a Car image with a license plate is given as input. 
 
-#### Steps involved: 
+### Steps involved: 
 
 i. The Car image is displayed using "display function". Also, the image size and plotting is defined using this function.
 
@@ -37,7 +37,6 @@ v. The required license plate is detected in the input image.
 
 ![](Python/car.jpg)
 
-
 ### Text Detection from image
 
 The main goal is to detect text from a given image.
@@ -48,9 +47,9 @@ Once the text has been detected, bounding boxes are used to display the characte
 ![](Python/tesseract.jpg)
 
 
+# GUI Projects
 
-
-### 2. Simple GUI application of calculator using matlab
+###  Simple GUI application of calculator using matlab
 The code is presented in the MATLAB folder under the name "drunk_calculator.m"
 This Calculator works as normal calculator when calculations are performed sequentially
 Also this calculator have the capability to produce some wierd messages as displayed below. This happens when the buttons are pressed randomly.
