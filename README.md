@@ -2,7 +2,16 @@
 
 The files contain Coding related to Image Processing in Python and Matlab.
 
-Extraction of text from image
+Used Modules for Extraction of the Image:
+-OpenCV
+
+ ```bash
+  pip install opencv-python
+ ```
+-Matplotlib
+ ```bash
+  pip install matplotlib
+ ```
 
 ![](Python/tesseract.jpg)
 
@@ -44,8 +53,8 @@ The code is stored in the file 'Login_System.py'
 
 The ouptput of the code is shown as follows:
 
-![](Screenshot%20(39).png)  
-![](Screenshot%20(40).png)
+![](Screenshot%20(39).png)  ![](Screenshot%20(40).png)
+
 
 
 
