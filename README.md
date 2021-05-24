@@ -37,6 +37,10 @@ v. The required license plate is detected in the input image.
 
 ![](Python/car.jpg)
 
+#### Note: 
+
+Due to some issue the file is unable to load. It is solved with this link []
+
 ### B. Text Detection from image
 
 The main goal is to detect text from a given image.
