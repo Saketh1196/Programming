@@ -1,6 +1,6 @@
 # Programming
 
-These are some of the mini projects done which are related to the field of Computer Vision. Image detection, Object detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB. 
+These are some of the mini projects done which are related to the field of Computer Vision. Image Classofication, Object detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB. 
 
 These libraries are used in the following projects:
 
@@ -18,8 +18,27 @@ These libraries are used in the following projects:
    pip install numpy
   ```
 
+## A. Image Classification
 
-## A. Object Detection
+In this project, Images are loaded from the fashion MNIST dataset and is checked whether the images are correctly classified according to the given labels using the libraries 'keras' and 'Tensorflow'.
+
+- Tensorflow library
+ ```
+ pip install tensorflow
+ ````
+
+- Importing Keras library from Tensorflow
+ ```
+ from tensorflow import keras
+ ````
+ 
+ 
+### Note:
+Sometimes there is a problem loading with the '.ipynb' extension file in the github repository. If you encouter this problem open the file with the given link below 'Image_Classification.ipynb':
+
+[Image_Classification]()
+ 
+## B. Object Detection
 
 In this task, a Car image with a license plate is given as input. 
 
@@ -37,11 +56,11 @@ v. The required license plate is detected in the input image.
 ![](Python/car.jpg)
 #### Note: 
 
-Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link:  
+Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link 'Object detection.ipynb':  
 
 [Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
-### B. Text Detection from image
+## C. Text Detection from image
 
 The main goal is to detect text from a given image.
 
@@ -53,7 +72,7 @@ Once the text has been detected, bounding boxes are used to display the characte
 
 #### Note: 
 
-Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link: 
+Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link 'tesseract.ipynb: 
 
 [tesseract.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
 
