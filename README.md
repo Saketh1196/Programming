@@ -38,7 +38,7 @@ v. The required license plate is detected in the input image.
 #### Note: 
 
 Due to some issue the file is unable to load. It is solved with this link: 
-[](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
+[Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
 ### B. Text Detection from image
 
