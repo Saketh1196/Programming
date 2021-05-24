@@ -1,7 +1,10 @@
 # Programming
 
-### Text extraction from image
+These are some of the mini projects done which are related to the field of Computer Vision. Image detection, Lane detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB.  
 
+### Text Detection from image
+
+The main goal is to detect text from a given image.
 Used Modules for Extraction of the Image:
 
 - OpenCV
@@ -13,13 +16,16 @@ Used Modules for Extraction of the Image:
  ```bash
   pip install matplotlib
  ```
-
+Once the text has been detected, bounding boxes are used to display the characters of the text individually as shown in the obtained result.
 ![](Python/tesseract.jpg)
 
+
+
+
 ### Simple GUI application of calculator using matlab
-- the code is presented in the MATLAB folder under the name "drunk_calculator.m"
-- This Calculator works as normal calculator when calculations are performed sequentially
-- Also this calculator have the capability to produce some wierd messages as displayed below. This happens when the buttons are pressed randomly.
+The code is presented in the MATLAB folder under the name "drunk_calculator.m"
+This Calculator works as normal calculator when calculations are performed sequentially
+Also this calculator have the capability to produce some wierd messages as displayed below. This happens when the buttons are pressed randomly.
 
 ![](MATLAB/drunk_calculator.png)   ![](MATLAB/drunk_calc.png)
 
