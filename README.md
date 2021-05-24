@@ -34,12 +34,11 @@ iii. Next, a copy of the image is taken and is 'detectMultiScale' function is us
 iv. Using the cv2.rectangle function a rectangle box is drawn around the license plate of the image using the axis, height and width.
 
 v. The required license plate is detected in the input image.
-
 ![](Python/car.jpg)
-
 #### Note: 
 
-Due to some issue the file is unable to load. It is solved with this link []
+Due to some issue the file is unable to load. It is solved with this link: 
+[](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
 ### B. Text Detection from image
 
