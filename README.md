@@ -18,11 +18,11 @@ Used Modules for Extraction of the Image:
 Simple GUI application of calculator using matlab
 - the code is presented in the MATLAB folder under the name "drunk_calculator.m"
 
-![](MATLAB/drunk_calculator.png)
+![](MATLAB/drunk_calculator.png)   ![](MATLAB/drunk_calc.png)
 
 - This Calculator works as normal calculator and also as a calculator when pressed buttons randomly will display some wierd messages as shown below.
  
-![](MATLAB/drunk_calc.png)
+
 
 
 
