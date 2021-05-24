@@ -1,6 +1,6 @@
 # Programming
 
-These are some of the mini projects done which are related to the field of Computer Vision. Lane detection, Object detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB. 
+These are some of the mini projects done which are related to the field of Computer Vision. Image detection, Object detection, Text extraction from image, etc are some of the projects done and the used Libraries are OpenCV, matpotlib and Numpy. Along with this, I have created simple Graphical User Interface (GUI) projects using Python and MATLAB. 
 
 These libraries are used in the following projects:
 
@@ -37,13 +37,14 @@ v. The required license plate is detected in the input image.
 
 ![](Python/car.jpg)
 
-### Text Detection from image
+### B. Text Detection from image
 
 The main goal is to detect text from a given image.
 
 Used Modules for Extraction of the Image:
  
 Once the text has been detected, bounding boxes are used to display the characters of the text individually as shown in the obtained result.
+
 ![](Python/tesseract.jpg)
 
 
