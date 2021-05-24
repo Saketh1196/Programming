@@ -36,7 +36,8 @@ In this project, Images are loaded from the fashion MNIST dataset and is checked
 ### Note:
 Sometimes there is a problem loading with the '.ipynb' extension file in the github repository. If you encouter this problem open the file with the given link below 'Image_Classification.ipynb':
 
-[Image_Classification]()
+[Image_Classification](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Image_Classification.ipynb)
+
  
 ## B. Object Detection
 
