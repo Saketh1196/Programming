@@ -110,7 +110,7 @@ Due to some issue the file is unable to load in the Github repository. It is res
 
 # GUI Projects
 
-###  Simple GUI application of calculator using matlab
+## A. Simple GUI application of calculator using matlab
 The code is presented in the MATLAB folder under the name "drunk_calculator.m"
 This Calculator works as normal calculator when calculations are performed sequentially
 Also this calculator have the capability to produce some wierd messages as displayed below. This happens when the buttons are pressed randomly.
@@ -119,7 +119,7 @@ Also this calculator have the capability to produce some wierd messages as displ
 
 
 
-#  PDFextractor 
+## B. PDFextractor 
  
 It is an simple GUI app where the text can be extracted by uploading the desired pdf file.
 
@@ -147,7 +147,7 @@ The ouptut of the program is attached as an image below along with the pdf file 
 ![](PDFextractor.png)
 
 
-###  Login_System
+## C. Login_System
 
 This is a simple GUI app which makes allows the user to login into their account. The application consists of username password along with login and register options. The username and password will be created and stored in a text file for a new user. While on the other users, they can login with the details if their details are correct. If they are incorrect then the login will be prevented. 
 
