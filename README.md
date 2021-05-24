@@ -53,7 +53,8 @@ vi. Predictions are now made on the image. When running the prediction it is obs
 vii. Two functions are defined to display the image and the corresponding bar graph indicating to the class to which the image belongs and how accurate the image is with the above trained and test accuracy.
   
 Output:
-![](Python/img_classification.jpg)
+
+![](Python/Img_classification.jpg)
 
 From the above Image, it can be viewed that the Images are classified correctly according to the given dataset. Blue color bar graph indicates that the image is recognised correctly and the green color bar graph indicates that the image has not been classified correctly according to the given conditions. The x-axis in the graph indicates the class names and the y-axis indicates the accuracy of the class names for the bar graph
  
@@ -80,6 +81,7 @@ iv. Using the cv2.rectangle function a rectangle box is drawn around the license
 v. The required license plate is detected in the input image.
 
 Output:
+
 ![](Python/car.jpg)
 #### Note: 
 
@@ -96,6 +98,7 @@ Used Modules for Extraction of the Image:
 Once the text has been detected, bounding boxes are used to display the characters of the text individually as shown in the obtained result.
 
 Output:
+
 ![](Python/tesseract.jpg)
 
 ### Note: 
