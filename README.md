@@ -61,7 +61,7 @@ From the above Image, it can be viewed that the Images are classified correctly 
 ### Note:
 Sometimes there is a problem loading with the '.ipynb' extension file in the github repository. If you encouter this problem open the file with the given link below 'Image_Classification.ipynb':
 
-[Image_Classification.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/ImageClassification.ipynb)
+Link- [Image_Classification.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/ImageClassification.ipynb)
  
 ## B. Object Detection
 
@@ -86,7 +86,7 @@ Output:
 
 Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link 'Object detection.ipynb':  
 
-[Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
+Link- [Object detection.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/Object%20detection.ipynb)
 
 ## C. Text Detection from image
 
@@ -104,7 +104,7 @@ Output:
 
 Due to some issue the file is unable to load in the Github repository. It is resolved by opening the below link 'tesseract.ipynb: 
 
-[tesseract.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
+Link- [tesseract.ipynb](https://nbviewer.jupyter.org/github/Saketh1196/Programming/blob/main/Python/tesseract.ipynb)
 
 
 # GUI Projects
